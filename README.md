@@ -16,10 +16,10 @@ http://flatcam.org/
 
 [Materials (Assembly)]
 
-Arduino Uno (R3)
-CNC Shield
-A4988 (Stepper Motor Drive)
-Nema17 X 3 (3 Axis)
+- Arduino Uno (R3)
+- CNC Shield
+- A4988 (Stepper Motor Drive)
+- Nema17 X 3 (3 Axis)
 
 ================= 
 
