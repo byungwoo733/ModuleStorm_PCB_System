@@ -1,5 +1,27 @@
 # ModuleStorm_PCB_System
-ModuleStorm_PCB_System 
+
+[System]
+
+GRBL: bCNC
+
+https://github.com/vlachoudis/bCNC
+
+PCB Design: KiCad
+
+https://www.kicad.org/
+
+PCB Prototyping CAD/CAM: Flatcam
+
+http://flatcam.org/
+
+[Materials (Assembly)]
+
+Arduino Uno (R3)
+CNC Shield
+A4988 (Stepper Motor Drive)
+Nema17 X 3 (3 Axis)
+
+================= 
 
 ModuleStorm PCB System Series
 
